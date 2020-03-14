@@ -1,7 +1,7 @@
 # Project4
 Project 4 for B ME 450 \
 GitHub repository link: https://github.com/Jacobanderson42/Project4 \
-GitHub code link: https://github.com/Jacobanderson42/Project3/blob/master/Project_4.ipynb
+GitHub code link: https://github.com/Jacobanderson42/Project4/blob/master/Project_4.ipynb
 
 # Problem Statement
 This project is looking to analyze the sounds that are present in the ocean. Specifically, the first part of this project is looking at 
