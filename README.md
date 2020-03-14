@@ -26,6 +26,15 @@ airguns, and earthquake activity. Generating these profiles can help to identify
 ![](https://github.com/Jacobanderson42/Project4/blob/master/Images/Oregon%20Offshore%20not%20Windy%20and%20not%20Rainy.png)
 ![](https://github.com/Jacobanderson42/Project4/blob/master/Images/Oregon%20Shelf%20not%20Windy%20and%20not%20Rainy.png)
 
+# Graph for Marine Mammal
+![](https://github.com/Jacobanderson42/Project4/blob/master/Images/Marine%20Mammal.png)
+
+# Graph for Airgun
+![](https://github.com/Jacobanderson42/Project4/blob/master/Images/Airgun.png)
+
+# Graph for Earthquake
+![](https://github.com/Jacobanderson42/Project4/blob/master/Images/Earthquake.png)
+
 # Conclusions
 
 # References
